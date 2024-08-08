@@ -5,7 +5,7 @@ Managed the end-to-end development of a dynamic MERN e-commerce platform, levera
 
 ### Homepage
 
-![Homepage](/public/gitimages/git3.jpg)
+![Homepage](./nexus_front/public/gitimages/git3.jpg)
 
 
 
