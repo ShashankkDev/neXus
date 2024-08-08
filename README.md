@@ -3,10 +3,13 @@
 **Brief Description:**  
 Managed the end-to-end development of a dynamic MERN e-commerce platform, leveraging MongoDB, Express.js, React, and Node.js. Engineered intuitive user interfaces and optimized backend functionality, driving improved user engagement and business growth.
 
-### Homepage
+### Register/Login page
 
 ![Homepage](./nexus_front/public/gitimages/git3.jpg)
 
+### Homepage
+
+![Homepage](./nexus_front/public/gitimages/git1.jpg)
 
 
 ## Table of Contents
